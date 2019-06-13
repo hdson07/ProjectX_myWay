@@ -50,7 +50,7 @@ while(1) :
     
     # a 값은 차가 화면에 들어오는 면적에 따라 조절해줘야 할듯
     disable = False
-    if a>5000: 
+    if a>1000: 
         disable = True
     else:
         disable = False
