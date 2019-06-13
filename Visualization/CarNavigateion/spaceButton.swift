@@ -16,7 +16,7 @@ class spaceButton: UIButton {
         self.layer.borderColor = #colorLiteral(red: 0, green: 0, blue: 0, alpha: 1)
         self.layer.borderWidth = 2
         self.layer.cornerRadius = 4
-
+        
 
     }
     open override func touchesEnded(_ touches: Set<UITouch>, with event: UIEvent?) {
@@ -26,9 +26,9 @@ class spaceButton: UIButton {
         // Do what you wanna do here
         self.empty = !self.empty
         if empty {
-            self.backgroundColor = #colorLiteral(red: 0.2549019754, green: 0.2745098174, blue: 0.3019607961, alpha: 1)
+            self.backgroundColor = #colorLiteral(red: 0.4352941176, green: 0.4431372549, blue: 0.4745098039, alpha: 1)
         }else{
-            self.backgroundColor = #colorLiteral(red: 0.9254902005, green: 0.2352941185, blue: 0.1019607857, alpha: 1)
+            self.backgroundColor = #colorLiteral(red: 0.7450980544, green: 0.1568627506, blue: 0.07450980693, alpha: 1)
         }
         
 

@@ -50,7 +50,7 @@ while(1) :
     
     # a 값은 차가 화면에 들어오는 면적에 따라 조절해줘야 할듯
     disable = False
-    if a>1000: 
+    if a>5000: 
         disable = True
     else:
         disable = False
@@ -401,8 +401,12 @@ while(1) :
                     else:
                         car = '장애인'
                         inputText = chars
-                        resultShow = cv2.imread('go.png',cv2.IMREAD_COLOR)
+                        resultShow = cv2.imread('handi.png',cv2.IMREAD_COLOR)
                         cv2.putText(resultShow, inputText, (org,100), cv2.FONT_HERSHEY_PLAIN, 5, (255, 255, 255),thickness= 2)   
+                        fw = open("/Users/hduck/희덕/Duck's Data/2019-1/ProjectX/ProjectX_myWay/Visualization/carNum.txt",'w')
+                        fw.write(inputText+'\n')
+                        fw.write(car+'\n')
+                        fw.close()                        
                         print(car + '\n')
                 else : 
                     if (int(result_array[0])* 10 + int(result_array[1])) < 70 :
@@ -411,8 +415,12 @@ while(1) :
                         else :
                             car = '승용차'
                             inputText = chars
-                            resultShow = cv2.imread('turnRight.png',cv2.IMREAD_COLOR)
+                            resultShow = cv2.imread('car.png',cv2.IMREAD_COLOR)
                             cv2.putText(resultShow, inputText, (org,100), cv2.FONT_HERSHEY_PLAIN, 5, (255, 255, 255),thickness= 2)   
+                            fw = open("/Users/hduck/희덕/Duck's Data/2019-1/ProjectX/ProjectX_myWay/Visualization/carNum.txt",'w')
+                            fw.write(inputText+'\n')
+                            fw.write(car+'\n')
+                            fw.close()
                             print(car + '\n')
                     elif (int(result_array[0])* 10 + int(result_array[1])) >= 70  and (int(result_array[0])* 10 + int(result_array[1])) < 100 :
                         if car == '대형차' or disable == True : 
@@ -420,8 +428,12 @@ while(1) :
                         else :
                             car = '대형차'
                             inputText =  chars
-                            resultShow = cv2.imread('turnLeft.png',cv2.IMREAD_COLOR)
+                            resultShow = cv2.imread('bigcar.png',cv2.IMREAD_COLOR)
                             cv2.putText(resultShow, inputText, (org,100), cv2.FONT_HERSHEY_PLAIN, 5, (255, 255, 255),thickness= 2)   
+                            fw = open("/Users/hduck/희덕/Duck's Data/2019-1/ProjectX/ProjectX_myWay/Visualization/carNum.txt",'w')
+                            fw.write(inputText+'\n')
+                            fw.write(car+'\n')
+                            fw.close()                            
                             print(car + '\n')
                 
 
@@ -447,10 +459,12 @@ while(1) :
     # plt.figure(figsize=(12, 10))
     # plt.imshow(img_out)
     if img_result is not None:
-         cv2.imshow('resultData',img_result)
+         img_ori=cv2.resize(img_ori, dsize=(300, 300))
          cv2.imshow('initial_data',img_ori)
+         img_result=cv2.resize(img_result, dsize=(400, 100))
+         cv2.imshow('resultData',img_result)
+         resultShow=cv2.resize(resultShow, dsize=(300, 300))
          cv2.imshow('resultShow',resultShow)
-         cv2.imshow('res',res) 
     k = cv2.waitKey(5) & 0xFF
     if k == 27:
         break

@@ -10,7 +10,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CarNavigateion/spaceButton.swift"
-            timestampString = "578136526.812408"
+            timestampString = "579102684.51013"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "13"
@@ -88,13 +88,240 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CarNavigateion/spacedata.swift"
-            timestampString = "578136178.276543"
+            timestampString = "581151487.0819629"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "53"
             endingLineNumber = "53"
-            landmarkName = "unknown"
-            landmarkType = "0">
+            landmarkName = "pathVisualization(line:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CarNavigateion.spaceData.pathVisualization(line: Swift.Int) -&gt; Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "CarNavigateion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hduck/%E1%84%92%E1%85%B4%E1%84%83%E1%85%A5%E1%86%A8/Duck&apos;s%20Data/2019-1/ProjectX/ProjectX_myWay/Visualization/CarNavigateion/spacedata.swift"
+                  timestampString = "582093296.7915601"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "118">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CarNavigateion.spaceData.pathVisualization(line: Swift.Int) -&gt; Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "CarNavigateion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hduck/%E1%84%92%E1%85%B4%E1%84%83%E1%85%A5%E1%86%A8/Duck&apos;s%20Data/2019-1/ProjectX/ProjectX_myWay/Visualization/CarNavigateion/spacedata.swift"
+                  timestampString = "582093296.794536"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "400">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CarNavigateion.spaceData.pathVisualization(line: Swift.Int) -&gt; Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "CarNavigateion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hduck/%E1%84%92%E1%85%B4%E1%84%83%E1%85%A5%E1%86%A8/Duck&apos;s%20Data/2019-1/ProjectX/ProjectX_myWay/Visualization/CarNavigateion/spacedata.swift"
+                  timestampString = "582093296.797407"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "495">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CarNavigateion.spaceData.pathVisualization(line: Swift.Int) -&gt; Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "CarNavigateion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hduck/%E1%84%92%E1%85%B4%E1%84%83%E1%85%A5%E1%86%A8/Duck&apos;s%20Data/2019-1/ProjectX/ProjectX_myWay/Visualization/CarNavigateion/spacedata.swift"
+                  timestampString = "582093296.79952"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "590">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CarNavigateion.spaceData.pathVisualization(line: Swift.Int) -&gt; Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "CarNavigateion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hduck/%E1%84%92%E1%85%B4%E1%84%83%E1%85%A5%E1%86%A8/Duck&apos;s%20Data/2019-1/ProjectX/ProjectX_myWay/Visualization/CarNavigateion/spacedata.swift"
+                  timestampString = "582093296.80186"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "697">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CarNavigateion.spaceData.pathVisualization(line: Swift.Int) -&gt; Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "CarNavigateion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hduck/%E1%84%92%E1%85%B4%E1%84%83%E1%85%A5%E1%86%A8/Duck&apos;s%20Data/2019-1/ProjectX/ProjectX_myWay/Visualization/CarNavigateion/spacedata.swift"
+                  timestampString = "582093296.80407"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "804">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CarNavigateion.spaceData.pathVisualization(line: Swift.Int) -&gt; Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "CarNavigateion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hduck/%E1%84%92%E1%85%B4%E1%84%83%E1%85%A5%E1%86%A8/Duck&apos;s%20Data/2019-1/ProjectX/ProjectX_myWay/Visualization/CarNavigateion/spacedata.swift"
+                  timestampString = "582093296.806427"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "911">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CarNavigateion.spaceData.pathVisualization(line: Swift.Int) -&gt; Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "CarNavigateion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hduck/%E1%84%92%E1%85%B4%E1%84%83%E1%85%A5%E1%86%A8/Duck&apos;s%20Data/2019-1/ProjectX/ProjectX_myWay/Visualization/CarNavigateion/spacedata.swift"
+                  timestampString = "582093296.808789"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "1018">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CarNavigateion.spaceData.pathVisualization(line: Swift.Int) -&gt; Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "CarNavigateion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hduck/%E1%84%92%E1%85%B4%E1%84%83%E1%85%A5%E1%86%A8/Duck&apos;s%20Data/2019-1/ProjectX/ProjectX_myWay/Visualization/CarNavigateion/spacedata.swift"
+                  timestampString = "582093296.811384"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "1125">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CarNavigateion.spaceData.pathVisualization(line: Swift.Int) -&gt; Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "CarNavigateion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hduck/%E1%84%92%E1%85%B4%E1%84%83%E1%85%A5%E1%86%A8/Duck&apos;s%20Data/2019-1/ProjectX/ProjectX_myWay/Visualization/CarNavigateion/spacedata.swift"
+                  timestampString = "582093296.8136261"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "1232">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CarNavigateion.spaceData.pathVisualization(line: Swift.Int) -&gt; Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "CarNavigateion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hduck/%E1%84%92%E1%85%B4%E1%84%83%E1%85%A5%E1%86%A8/Duck&apos;s%20Data/2019-1/ProjectX/ProjectX_myWay/Visualization/CarNavigateion/spacedata.swift"
+                  timestampString = "582093296.8156511"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "1339">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CarNavigateion.spaceData.pathVisualization(line: Swift.Int) -&gt; Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "CarNavigateion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hduck/%E1%84%92%E1%85%B4%E1%84%83%E1%85%A5%E1%86%A8/Duck&apos;s%20Data/2019-1/ProjectX/ProjectX_myWay/Visualization/CarNavigateion/spacedata.swift"
+                  timestampString = "582093296.817732"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "1446">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CarNavigateion.spaceData.pathVisualization(line: Swift.Int) -&gt; Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "CarNavigateion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hduck/%E1%84%92%E1%85%B4%E1%84%83%E1%85%A5%E1%86%A8/Duck&apos;s%20Data/2019-1/ProjectX/ProjectX_myWay/Visualization/CarNavigateion/spacedata.swift"
+                  timestampString = "582093296.819719"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "1553">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CarNavigateion.spaceData.pathVisualization(line: Swift.Int) -&gt; Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "CarNavigateion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hduck/%E1%84%92%E1%85%B4%E1%84%83%E1%85%A5%E1%86%A8/Duck&apos;s%20Data/2019-1/ProjectX/ProjectX_myWay/Visualization/CarNavigateion/spacedata.swift"
+                  timestampString = "582093296.821498"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "1660">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CarNavigateion.spaceData.pathVisualization(line: Swift.Int) -&gt; Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "CarNavigateion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hduck/%E1%84%92%E1%85%B4%E1%84%83%E1%85%A5%E1%86%A8/Duck&apos;s%20Data/2019-1/ProjectX/ProjectX_myWay/Visualization/CarNavigateion/spacedata.swift"
+                  timestampString = "582093296.823445"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "1767">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
